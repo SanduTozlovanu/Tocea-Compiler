@@ -1,0 +1,53 @@
+var int i = 10;
+function: int merge(int ceva){
+    print->(ceva*i);
+    i=i+1;
+    return ceva;
+}
+blob pisica{
+    var int varsta;
+    var string nume;
+};
+begin main{
+    var int a=1, b=2, c=3, i = 0;
+    doubleprint("Poggers",100);
+    while:(a <= 9) then->{
+        var int ceva = execute merge(a);
+        doubleprint("i main este", i);
+        doubleprint("i global este", ceva);
+        if:(a == 1) then->{
+            print->("Primul pas");
+            if:(b == 2) then->{
+                print->("b este");print->(b);
+                var int c;
+            }
+            var int k;
+            if:(TRUE == TRUE) then->{
+                var int rand;
+            }
+            if:(TRUE == TRUE) then->{
+                var int rand;
+            }
+            if:(TRUE == TRUE) then->{
+                var int rand;
+            }
+            if:(TRUE == TRUE) then->{
+                var int rand;
+            }
+            if:(TRUE == TRUE) then->{
+                var int rand;
+            }
+            if:(TRUE == TRUE) then->{
+                var int rand;
+            }
+            if:(TRUE == TRUE) then->{
+                var int rand;
+            }
+            if:(TRUE == TRUE) then->{
+                var int rand;
+            }
+        }
+        a = a+1;
+    }
+    print->(a);
+}

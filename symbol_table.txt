@@ -1,0 +1,130 @@
+Entered global scope
+Inserted symbol i of type int at scope depth 0 in call frame 0
+Inserted symbol @merge?int of type function at scope depth 0 in call frame 0
+Entered new scope
+	Inserted symbol a of type int at scope depth 1 in call frame 0
+	Inserted symbol b of type int at scope depth 1 in call frame 0
+	Inserted symbol c of type int at scope depth 1 in call frame 0
+	Inserted symbol i of type int at scope depth 1 in call frame 0
+	Entered new scope
+		Entered new call
+	Entered new scope
+		Inserted symbol ceva of type int at scope depth 1 in call frame 1
+		Entered new scope
+		Exited scope
+	Exited scope
+		Exited call
+		Inserted symbol ceva of type int at scope depth 2 in call frame 0
+		Entered new scope
+			Entered new scope
+				Inserted symbol c of type int at scope depth 4 in call frame 0
+			Exited scope
+			Inserted symbol k of type int at scope depth 3 in call frame 0
+			Entered new scope
+				Inserted symbol rand of type int at scope depth 4 in call frame 0
+			Exited scope
+			Entered new scope
+				Inserted symbol rand of type int at scope depth 4 in call frame 0
+			Exited scope
+			Entered new scope
+				Inserted symbol rand of type int at scope depth 4 in call frame 0
+			Exited scope
+			Entered new scope
+				Inserted symbol rand of type int at scope depth 4 in call frame 0
+			Exited scope
+			Entered new scope
+				Inserted symbol rand of type int at scope depth 4 in call frame 0
+			Exited scope
+			Entered new scope
+				Inserted symbol rand of type int at scope depth 4 in call frame 0
+			Exited scope
+			Entered new scope
+				Inserted symbol rand of type int at scope depth 4 in call frame 0
+			Exited scope
+			Entered new scope
+				Inserted symbol rand of type int at scope depth 4 in call frame 0
+			Exited scope
+		Exited scope
+	Exited scope
+	Entered new scope
+		Entered new call
+	Entered new scope
+		Inserted symbol ceva of type int at scope depth 1 in call frame 1
+		Entered new scope
+		Exited scope
+	Exited scope
+		Exited call
+		Inserted symbol ceva of type int at scope depth 2 in call frame 0
+	Exited scope
+	Entered new scope
+		Entered new call
+	Entered new scope
+		Inserted symbol ceva of type int at scope depth 1 in call frame 1
+		Entered new scope
+		Exited scope
+	Exited scope
+		Exited call
+		Inserted symbol ceva of type int at scope depth 2 in call frame 0
+	Exited scope
+	Entered new scope
+		Entered new call
+	Entered new scope
+		Inserted symbol ceva of type int at scope depth 1 in call frame 1
+		Entered new scope
+		Exited scope
+	Exited scope
+		Exited call
+		Inserted symbol ceva of type int at scope depth 2 in call frame 0
+	Exited scope
+	Entered new scope
+		Entered new call
+	Entered new scope
+		Inserted symbol ceva of type int at scope depth 1 in call frame 1
+		Entered new scope
+		Exited scope
+	Exited scope
+		Exited call
+		Inserted symbol ceva of type int at scope depth 2 in call frame 0
+	Exited scope
+	Entered new scope
+		Entered new call
+	Entered new scope
+		Inserted symbol ceva of type int at scope depth 1 in call frame 1
+		Entered new scope
+		Exited scope
+	Exited scope
+		Exited call
+		Inserted symbol ceva of type int at scope depth 2 in call frame 0
+	Exited scope
+	Entered new scope
+		Entered new call
+	Entered new scope
+		Inserted symbol ceva of type int at scope depth 1 in call frame 1
+		Entered new scope
+		Exited scope
+	Exited scope
+		Exited call
+		Inserted symbol ceva of type int at scope depth 2 in call frame 0
+	Exited scope
+	Entered new scope
+		Entered new call
+	Entered new scope
+		Inserted symbol ceva of type int at scope depth 1 in call frame 1
+		Entered new scope
+		Exited scope
+	Exited scope
+		Exited call
+		Inserted symbol ceva of type int at scope depth 2 in call frame 0
+	Exited scope
+	Entered new scope
+		Entered new call
+	Entered new scope
+		Inserted symbol ceva of type int at scope depth 1 in call frame 1
+		Entered new scope
+		Exited scope
+	Exited scope
+		Exited call
+		Inserted symbol ceva of type int at scope depth 2 in call frame 0
+	Exited scope
+Exited scope
+Exited global scope
